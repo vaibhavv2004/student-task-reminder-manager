@@ -28,7 +28,14 @@ College/university students managing 4-6 courses simultaneously with varying ass
 
 ## Project Artifacts
 - Board view showing sprint progress
+  https://github.com/vaibhavv2004/student-task-reminder-manager/blob/main/Board.jpeg
+  
 - Backlog with prioritized user stories
+  https://github.com/vaibhavv2004/student-task-reminder-manager/blob/main/Backlog.jpeg
+  
 - Detailed user stories with acceptance criteria
+https://github.com/vaibhavv2004/student-task-reminder-manager/blob/main/User%20story.jpeg
+  
 - Product Requirement Document (PRD)
+  https://github.com/vaibhavv2004/student-task-reminder-manager/blob/main/PRD.jpeg
 
